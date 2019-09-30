@@ -5,3 +5,5 @@ dolor ...
 # hello
 
 #zmena lokalna
+#zmena na servri
+#pridale si obe zmeny

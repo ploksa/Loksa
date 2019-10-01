@@ -1,6 +1,6 @@
 # Loksa
 
-## prve repo
+## prve repo remotne
 
 This is the first line.  
 And this is the second line.  
